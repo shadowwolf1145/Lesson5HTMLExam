@@ -1,2 +1,2 @@
-*.hack linguist-detectable=false
+*.Hack linguist-detectable=false
 *.php linguist-detectable=true
